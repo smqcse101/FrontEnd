@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "290193414495",
+    "firebase_url": "https://partywala-875b5.firebaseio.com",
+    "project_id": "partywala-875b5",
+    "storage_bucket": "partywala-875b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290193414495:android:729977a7979102ba76feea",
+        "android_client_info": {
+          "package_name": "com.project.adminofparty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290193414495-vf14mmuoikseod2t01d8r4qt7ltl3d7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvvgV5lEOvS2Ps6TbPYneDYjuFSjpZ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290193414495-vf14mmuoikseod2t01d8r4qt7ltl3d7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290193414495:android:1725332450a169f976feea",
+        "android_client_info": {
+          "package_name": "com.project.partywalafinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290193414495-vf14mmuoikseod2t01d8r4qt7ltl3d7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwvvgV5lEOvS2Ps6TbPYneDYjuFSjpZ4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290193414495-vf14mmuoikseod2t01d8r4qt7ltl3d7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
